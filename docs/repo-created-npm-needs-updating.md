@@ -1,4 +1,4 @@
-I've created a repo at ____. Please update your npm package with the new issues and bump the version. I've created a team that has admin rights to this repo so you can control it as you see fit.
+I've created a repo for you at ____. Please update your npm package with the new issues and bump the version. I've created a team that has admin rights to this repo so you can control it as you see fit.
 
 Here are some steps to help you get started.
 Clone the new repository:
